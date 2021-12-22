@@ -1,0 +1,19 @@
+.lista-de-notas{
+    display:flex;
+    margin-top: 1em;
+}
+.lista-de-notas li{
+    margin-left: 50px;
+    border: 2px solid lightgray;
+    height:15%;
+    width: 180px;
+    background-color: rgb(255, 247, 247);
+    border-radius: 1em;
+    text-justify: center;
+    text-align: center;
+    list-style-type: none;
+}
+.lista-de-notas div{
+    padding-top: 5px;
+    
+}
