@@ -15,4 +15,9 @@
 }
 .formulario-cadastro button{
     margin-left: 1em;
+    width: 30%;
+    height: 3em;
+    background-color: black;
+    color:white;
+    align-self: flex-end;
 }
